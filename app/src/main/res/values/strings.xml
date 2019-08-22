@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tichu Counter</string>
+    <string name="points">Team Points</string>
+</resources>
